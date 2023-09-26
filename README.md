@@ -1,2 +1,6 @@
 # PHM501-project
 <--- for now the work is to analyse the brain data --->
+
+data from https://github.com/meagmohit/EEG-Datasets
+software- Brainstorm 
+language- MATLAB
